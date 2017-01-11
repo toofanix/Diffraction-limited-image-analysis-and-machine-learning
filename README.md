@@ -2,7 +2,8 @@
 
 This repository contains three jupyter notebooks.
 
-1. Image analysis using bspline.
+1. "Image analysis using bspline.ipynb"
+
    In this notebook, I used wavelet filter (B-spline) to detect diffraction limited single spots from fluorescent images.
    
 2. Estimation of centroid using 2D gaussian fitting and classification.
